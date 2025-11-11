@@ -1,8 +1,8 @@
 //
-//  PartnerLab3App.swift
-//  PartnerLab3
-//
-//  Created by cisstudent on 11/10/25.
+// Lab 3
+// Group #
+// Hasan Dababo, Partner Name
+// Date: 11/10/2025
 //
 
 import SwiftUI
@@ -15,3 +15,4 @@ struct PartnerLab3App: App {
         }
     }
 }
+
