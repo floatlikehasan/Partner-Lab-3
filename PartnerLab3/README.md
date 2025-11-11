@@ -49,7 +49,7 @@ These animations were learned from the SwiftUI animation lessons in the module a
 
 # Project Video 
 
-Video Link: [INSERT LINK HERE]**
+Video Link: https://drive.google.com/file/d/1q18_C6P5nAmdTG-2ZdzSbEVOvK11h25o/view?usp=sharing **
 
 This video explains:
 - How my MVVM structure works  
